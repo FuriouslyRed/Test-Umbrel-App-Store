@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: red-umbrel2mqtt
+name: Umbrel2MQTT
+tagline: Expose your Umbrel via MQTT
+icon: 
+category: Automation
+version: "0"
+port: 86788
+description: >-
+  N/A
+
+developer: FuriouslyRed
+submitter: FuriouslyRed
+submission: 
+repo: 
+support: 
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  N/A
+dependencies: []
+path: ""
