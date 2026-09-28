@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: red-matter-server
+name: Matter Server
+tagline: A Matter Controller Server over WebSockets
+icon:
+category: automation
+version: "1.4.0"
+port: 5580
+description: >-
+  🛜 This project implements a Matter Controller Server over WebSockets using the official Matter SDK as a base and provides both a server and client implementation.
+
+
+  🏠 The goal of this project is primarily to have Matter support in Home Assistant but its universal approach makes it suitable to be used in other projects too.
+developer: Home Assistant
+website: https://home-assistant.io
+submitter: FuriouslyRed
+submission: https://github.com/FuriouslyRed/Umbrel-App-Store
+repo: https://github.com/matter-js/matterjs-server
+support: https://community.home-assistant.io/
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  First itteration of the maintained version of the Matter Controller Server.
+dependencies: []
+path: ""

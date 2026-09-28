@@ -1,7 +1,8 @@
 version: "3.7"
 services:
   server:
-    image: ghcr.io/matter-js/matterjs-server:latest
+    image: >-
+      ghcr.io/matter-js/matterjs-server:1.4.0
     restart: on-failure
     network_mode: host
     security_opt:
@@ -16,4 +17,4 @@ services:
       - /run/dbus:/run/dbus:ro
     environment:
       BLE_PROXY: 'false'
-    container_name: matterjs-server
+    container_name: matter-server_server_1
