@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: red-matterjs
-name: Matter
+name: Matter Server
 storage:
   dataRoot: data
 tagline: A Matter Controller Server over WebSockets
