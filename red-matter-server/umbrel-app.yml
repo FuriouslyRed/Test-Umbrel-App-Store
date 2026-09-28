@@ -14,7 +14,7 @@ description: >-
 developer: Home Assistant
 website: https://home-assistant.io
 submitter: FuriouslyRed
-submission: https://github.com/FuriouslyRed/Umbrel-App-Store
+submission: https://github.com/FuriouslyRed/Umbrel-App-Store/tree/master/red-matter-server
 repo: https://github.com/matter-js/matterjs-server
 support: https://community.home-assistant.io/
 gallery:
