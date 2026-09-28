@@ -30,12 +30,3 @@ dependencies: []
 path: ""
 defaultUsername: ""
 defaultPassword: ""
-
-
-storage:
-  dataRoot: data
-name: Matter
-tagline: A Matter Controller Server over WebSockets
-category: automation
-version: "1.4.0"
-port: 5580
