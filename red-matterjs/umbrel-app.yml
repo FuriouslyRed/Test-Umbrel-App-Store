@@ -1,0 +1,41 @@
+manifestVersion: 1
+id: red-matterjs
+name: Matter
+storage:
+  dataRoot: data
+tagline: A Matter Controller Server over WebSockets
+icon:
+category: automation
+version: "1.4.0"
+port: 5580
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: Open Home Foundation
+website: https://www.home-assistant.io/
+submitter: FuriouslyRed
+submission: https://github.com/FuriouslyRed/Umbrel-App-Store
+repo: https://github.com/matter-js/matterjs-server
+support: https://community.home-assistant.io/
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+
+
+storage:
+  dataRoot: data
+name: Matter
+tagline: A Matter Controller Server over WebSockets
+category: automation
+version: "1.4.0"
+port: 5580
