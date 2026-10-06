@@ -2,10 +2,10 @@ manifestVersion: 1
 id: red-matter-server
 storage:
   dataRoot: data
-name: Matter
+name: Matter Server
 tagline: Matter Controller Server over WebSockets
 category: automation
-version: "Debug3"
+version: "1.4.0"
 port: 5580
 description: >-
   This project implements a Matter Controller Server over WebSockets using the official Matter SDK as a base and provides both a server and client implementation.
@@ -20,6 +20,6 @@ support: https://community.home-assistant.io/
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Initial release of Matter Controller Server.
+  View the latest notes at https://github.com/matter-js/matterjs-server/blob/main/CHANGELOG.md.
 dependencies: []
 path: ""
