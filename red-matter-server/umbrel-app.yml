@@ -5,7 +5,7 @@ storage:
 name: Matter
 tagline: Matter Controller Server over WebSockets
 category: automation
-version: "1.4.0"
+version: "Debug1"
 port: 5580
 description: >-
   This project implements a Matter Controller Server over WebSockets using the official Matter SDK as a base and provides both a server and client implementation.
