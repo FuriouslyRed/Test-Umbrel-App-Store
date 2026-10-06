@@ -1,0 +1,6 @@
+dependencies: {}
+customEnvironment:
+  - serviceName: server
+    name: BLE_PROXY
+    value: 'false'
+autoStart: true
