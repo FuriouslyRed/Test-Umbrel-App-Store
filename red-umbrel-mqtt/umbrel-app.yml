@@ -3,7 +3,7 @@ id: red-umbrel2mqtt
 name: Umbrel2MQTT
 tagline: Expose your Umbrel via MQTT
 icon: 
-category: Automation
+category: automation
 version: "0"
 port: 86788
 description: >-
