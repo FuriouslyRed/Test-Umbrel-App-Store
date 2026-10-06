@@ -1,6 +1,8 @@
 manifestVersion: 1
 id: red-matter-server
-name: Matter Server
+storage:
+  dataRoot: data
+name: Matter
 tagline: Matter Controller Server over WebSockets
 category: automation
 version: "1.4.0"
